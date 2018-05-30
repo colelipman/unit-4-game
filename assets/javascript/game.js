@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
-	crystals = ['assets/images/red.png',
-				'assets/images/blue.png',
-				'assets/images/yellow.png',
-				'assets/images/green.png'
+	crystals = ['assets/images/Power_Stone.png',
+				'assets/images/Space_Stone.png',
+				'assets/images/Mind_Stone.png',
+				'assets/images/Time_Stone.png'
 			];
 
 	var counter = 0;
