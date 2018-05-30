@@ -1,6 +1,10 @@
 $(document).ready(function() {
 
-	crystals = ['assets/images/red.png','assets/images/blue.png','assets/images/yellow.png','assets/images/green.png'];
+	crystals = ['assets/images/red.png',
+				'assets/images/blue.png',
+				'assets/images/yellow.png',
+				'assets/images/green.png'
+			];
 
 	var counter = 0;
 	var wins = 0;
